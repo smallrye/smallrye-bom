@@ -19,7 +19,7 @@
         <version.smallrye-config>1.0.0</version.smallrye-config>
         <version.smallrye-context-propagation>1.0.2</version.smallrye-context-propagation>
         <version.smallrye-fault-tolerance>1.0.1</version.smallrye-fault-tolerance>
-        <version.smallrye-health>1.0.2</version.smallrye-health>
+        <version.smallrye-health>1.0.3</version.smallrye-health>
         <version.smallrye-jwt>2.0.0</version.smallrye-jwt>
         <version.smallrye-metrics>1.1.0</version.smallrye-metrics>
         <version.smallrye-openapi>1.0.2</version.smallrye-openapi>
