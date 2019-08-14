@@ -1,0 +1,4 @@
+image:https://semaphoreci.com/api/v1/smallrye/smallrye-bom/branches/master/badge.svg["Semaphore CI", link="https://semaphoreci.com/smallrye/smallrye-bom"]
+image:https://img.shields.io/github/license/smallrye/smallrye-bom.svg["License", link="http://www.apache.org/licenses/LICENSE-2.0"]
+
+= SmallRye BOM
