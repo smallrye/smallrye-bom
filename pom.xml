@@ -10,7 +10,7 @@
     </parent>
 
     <artifactId>smallrye-bom</artifactId>
-    <version>3.2.0</version>
+    <version>3.2.1-SNAPSHOT</version>
 
     <packaging>pom</packaging>
     <name>SmallRye BOM</name>
@@ -38,7 +38,7 @@
         <connection>scm:git:git@github.com:smallrye/smallrye-bom.git</connection>
         <developerConnection>scm:git:git@github.com:smallrye/smallrye-bom.git</developerConnection>
         <url>https://github.com/smallrye/smallrye-bom/</url>
-        <tag>3.2.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <licenses>
