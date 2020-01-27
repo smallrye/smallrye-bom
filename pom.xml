@@ -21,7 +21,7 @@
         <version.smallrye-context-propagation>1.0.12</version.smallrye-context-propagation>
         <version.smallrye-fault-tolerance>2.1.4</version.smallrye-fault-tolerance>
         <version.smallrye-health>2.1.0</version.smallrye-health>
-        <version.smallrye-jwt>2.0.11</version.smallrye-jwt>
+        <version.smallrye-jwt>2.0.12</version.smallrye-jwt>
         <version.smallrye-metrics>2.3.3</version.smallrye-metrics>
         <version.smallrye-openapi>1.1.20</version.smallrye-openapi>
         <version.smallrye-opentracing>1.3.3</version.smallrye-opentracing>
