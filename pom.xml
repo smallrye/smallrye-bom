@@ -17,7 +17,7 @@
     <url>http://smallrye.io</url>
 
     <properties>
-        <version.smallrye-config>1.6.1</version.smallrye-config>
+        <version.smallrye-config>1.6.2</version.smallrye-config>
         <version.smallrye-context-propagation>1.0.12</version.smallrye-context-propagation>
         <version.smallrye-fault-tolerance>4.1.0</version.smallrye-fault-tolerance>
         <version.smallrye-health>2.2.0</version.smallrye-health>
