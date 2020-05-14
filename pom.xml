@@ -18,7 +18,7 @@
 
     <properties>
         <version.smallrye-config>1.7.0</version.smallrye-config>
-        <version.smallrye-context-propagation>1.0.12</version.smallrye-context-propagation>
+        <version.smallrye-context-propagation>1.0.13</version.smallrye-context-propagation>
         <version.smallrye-fault-tolerance>4.2.0</version.smallrye-fault-tolerance>
         <version.smallrye-health>2.2.1</version.smallrye-health>
         <version.smallrye-jwt>2.1.1</version.smallrye-jwt>
