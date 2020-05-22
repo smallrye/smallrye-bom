@@ -1,4 +1,7 @@
-image:https://semaphoreci.com/api/v1/smallrye/smallrye-bom/branches/master/badge.svg["Semaphore CI", link="https://semaphoreci.com/smallrye/smallrye-bom"]
+:ci: https://github.com/smallrye/smallrye-bom/actions?query=workflow%3A%22SmallRye+Build%22
+
+image:https://github.com/smallrye/smallrye-bom/workflows/SmallRye%20Build/badge.svg?branch=master[link={ci}]
 image:https://img.shields.io/github/license/smallrye/smallrye-bom.svg["License", link="http://www.apache.org/licenses/LICENSE-2.0"]
+image:https://img.shields.io/maven-central/v/io.smallrye/smallrye-bom?color=green[]
 
 = SmallRye BOM
