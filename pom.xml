@@ -26,7 +26,7 @@
         <version.smallrye-health>2.2.3</version.smallrye-health>
         <version.smallrye-jwt>2.2.0</version.smallrye-jwt>
         <version.smallrye-metrics>2.4.2</version.smallrye-metrics>
-        <version.smallrye-openapi>2.0.5</version.smallrye-openapi>
+        <version.smallrye-openapi>2.0.6</version.smallrye-openapi>
         <version.smallrye-opentracing>1.3.4</version.smallrye-opentracing>
         <version.smallrye-reactive-messaging>2.2.1</version.smallrye-reactive-messaging>
         <version.smallrye-reactive-streams-operators>1.0.13</version.smallrye-reactive-streams-operators>
