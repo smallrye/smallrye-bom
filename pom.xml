@@ -19,7 +19,7 @@
     <properties>
         <version.smallrye-common>1.3.0</version.smallrye-common>
         <version.smallrye-config>1.8.5</version.smallrye-config>
-        <version.smallrye-context-propagation>1.0.15</version.smallrye-context-propagation>
+        <version.smallrye-context-propagation>1.0.16</version.smallrye-context-propagation>
         <version.smallrye-converters>1.0.0</version.smallrye-converters>
         <version.smallrye-fault-tolerance>4.3.0</version.smallrye-fault-tolerance>
         <version.smallrye-graphql>1.0.7</version.smallrye-graphql>
