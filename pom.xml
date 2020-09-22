@@ -31,7 +31,7 @@
         <version.smallrye-reactive-messaging>2.3.0</version.smallrye-reactive-messaging>
         <version.smallrye-reactive-streams-operators>1.0.13</version.smallrye-reactive-streams-operators>
         <version.smallrye-mutiny>0.8.0</version.smallrye-mutiny>
-        <version.smallrye-reactive-utils>1.2.0</version.smallrye-reactive-utils>
+        <version.smallrye-reactive-utils>1.2.1</version.smallrye-reactive-utils>
     </properties>
 
     <issueManagement>
