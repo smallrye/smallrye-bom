@@ -21,7 +21,7 @@
         <version.smallrye-config>1.9.3</version.smallrye-config>
         <version.smallrye-context-propagation>1.0.19</version.smallrye-context-propagation>
         <version.smallrye-converters>1.0.0</version.smallrye-converters>
-        <version.smallrye-fault-tolerance>4.3.1</version.smallrye-fault-tolerance>
+        <version.smallrye-fault-tolerance>4.3.2</version.smallrye-fault-tolerance>
         <version.smallrye-graphql>1.0.14</version.smallrye-graphql>
         <version.smallrye-health>2.2.5</version.smallrye-health>
         <version.smallrye-jwt>2.3.1</version.smallrye-jwt>
